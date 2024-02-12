@@ -1,0 +1,14 @@
+.tt{
+    text-align: center;
+    color: rgb(8, 8, 8);
+    margin-top:2px;
+}
+.a {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 800px;
+    padding: 30px 50px;
+    margin: 20px 30px;
+    border-radius: 6px;
+    background: #fff;
+  }
